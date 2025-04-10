@@ -25,3 +25,7 @@ This 90-minute hands-on tutorial walks participants through ....
 ├── slides/              # Presentation slides (PDF)
 ├── requirements.txt     # Dependencies for Python environment
 └── README.md            
+
+## Questions?
+Feel free to connect with me.
+LinkedIn: [Andrea](https://www.linkedin.com/in/andreahobby/)
