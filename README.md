@@ -4,6 +4,10 @@
 **Duration:** 90 minutes  
 **Audience Level:** [Beginner / Intermediate] 
 
+## Questions?
+Feel free to connect with me.
+LinkedIn: [Andrea](https://www.linkedin.com/in/andreahobby/)
+
 ## Overview
 
 This 90-minute hands-on tutorial walks participants through ....
@@ -26,6 +30,4 @@ This 90-minute hands-on tutorial walks participants through ....
 ├── requirements.txt     # Dependencies for Python environment
 └── README.md            
 
-## Questions?
-Feel free to connect with me.
-LinkedIn: [Andrea](https://www.linkedin.com/in/andreahobby/)
+
