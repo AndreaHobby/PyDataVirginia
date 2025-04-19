@@ -26,16 +26,15 @@ This 90-minute hands-on tutorial walks participants through the following.
 
 ## Repository Structure
 
-```bash
+
 .
-├── notebooks/           # Jupyter notebooks for each section of the tutorial
-│   ├── 01_intro.ipynb
-│   ├── 02_modeling.ipynb
-│   └── 03_fairness.ipynb
-├── data/                # Dataset
+├── notebooks/           
+│   ├── Responsible_AI_using_SciPy_PyData_Tutorial 1.ipynb
+│   ├── Responsible_AI_using_SciPy_PyData_Tutorial 2.ipynb
+│   └── Responsible_AI_using_SciPy_PyData_Tutorial 3.ipynb
+├── data/                
 │   └── ...
 ├── PyData Virginia Presentation.pdf # Presentation slides (PDF)
-├── requirements.txt     # Dependencies for Python environment
 └── README.md            
 
 
