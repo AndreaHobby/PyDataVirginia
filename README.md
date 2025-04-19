@@ -26,7 +26,7 @@ This 90-minute hands-on tutorial walks participants through the following.
 
 ## Repository Structure
 
-~bash
+```bash
 .
 ├── notebooks/           
 │   ├── Responsible_AI_using_SciPy_PyData_Tutorial 1.ipynb
