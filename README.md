@@ -32,8 +32,9 @@ This 90-minute hands-on tutorial walks participants through the following.
 │   ├── Responsible_AI_using_SciPy_PyData_Tutorial 1.ipynb
 │   ├── Responsible_AI_using_SciPy_PyData_Tutorial 2.ipynb
 │   └── Responsible_AI_using_SciPy_PyData_Tutorial 3.ipynb
-├── data/                
-│   └── ...
+├── data/
+│   ├── case_data.csv       
+│   └── datainfo.md
 ├── PyData Virginia Presentation.pdf # Presentation slides (PDF)
 └── README.md            
 
